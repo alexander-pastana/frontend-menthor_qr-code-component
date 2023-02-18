@@ -19,9 +19,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Screenshot](./screen_shots/screen-shot.png)
 
 ### Responsive Screenshot
+<div align="center">
 
 ![Responsive Screenshot](./screen_shots/responsive_screenshot_360x740.png)
 
+</div>
 ## My process
 
 ### Built with
